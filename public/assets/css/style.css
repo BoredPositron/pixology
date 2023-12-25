@@ -284,7 +284,10 @@ body {
 
 .btn-secondary:is(:hover, :focus) { color: var(--white); }
 
-.social-list { display: flex; }
+.social-list { 
+  display: flex; 
+  justify-content: center;
+}
 
 .w-100 { width: 100%; }
 
@@ -845,7 +848,12 @@ body {
 
 .footer-text { margin-block-end: 30px; }
 
-.footer .social-list { gap: 12px; }
+.footer .social-list { 
+  gap: 12px; 
+  display: flex;
+  align-items: center;
+  justify-content:center ;
+}
 
 .footer .social-link {
   background-color: var(--onyx);

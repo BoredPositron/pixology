@@ -1,0 +1,7 @@
+姓名：Shiv
+类型：网站
+制作中使用的技术:
+HTML5, Google-CDN, CSS, JS, Kate, Floorp-Stable
+总时长：3小时
+开发和测试者：
+富士山健城先生 [HUJISAN KEONJO]
